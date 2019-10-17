@@ -1,0 +1,8 @@
+2019-04-16T04:53:22+00:00 CRITICAL Cannot declare class Elementor\Widget_Themesmoon_Title, because the name is already in use in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-about.php on line 330
+
+2019-04-16T04:53:28+00:00 CRITICAL Cannot declare class Elementor\Widget_Themesmoon_Title, because the name is already in use in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-about.php on line 330
+
+2019-04-16T04:53:52+00:00 CRITICAL Cannot declare class Elementor\Widget_Themesmoon_Title, because the name is already in use in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-about.php on line 321
+
+2019-04-16T04:53:55+00:00 CRITICAL Cannot declare class Elementor\Widget_Themesmoon_Title, because the name is already in use in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-about.php on line 321
+

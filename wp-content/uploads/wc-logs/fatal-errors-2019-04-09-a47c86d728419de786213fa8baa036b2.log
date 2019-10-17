@@ -1,0 +1,10 @@
+2019-04-09T08:41:31+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\coprea_pagination() in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-portfolio.php:527
+Stack trace:
+#0 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\widget-base.php(501): Elementor\Widget_Themesmoon_Portfolio->render()
+#1 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\core\base\document.php(207): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#3 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\corpea\wp-includes\class-wp-hook.php(286): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+# in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-portfolio.php on line 527
+

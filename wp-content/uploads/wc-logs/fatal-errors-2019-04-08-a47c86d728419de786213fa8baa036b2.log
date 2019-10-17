@@ -1,0 +1,10 @@
+2019-04-08T06:00:25+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\corpea_get_narrow_data() in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-woo.php:82
+Stack trace:
+#0 C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-woo.php(25): Elementor\corpea_widget_products->sectionQuery()
+#1 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(1919): Elementor\corpea_widget_products->_register_controls()
+#2 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(485): Elementor\Controls_Stack->init_controls()
+#3 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\widget-base.php(160): Elementor\Controls_Stack->get_stack()
+#4 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\managers\widgets.php(274): Elementor\Widget_Base->get_stack(false)
+#5 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#6 C:\xam in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-woo.php on line 82
+

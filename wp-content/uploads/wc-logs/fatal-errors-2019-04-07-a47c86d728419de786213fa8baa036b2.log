@@ -1,0 +1,26 @@
+2019-04-07T11:45:11+00:00 CRITICAL Maximum execution time of 240 seconds exceeded in C:\xampp\htdocs\corpea\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-04-07T11:53:12+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\corpea\wp-content\themes\corpea\functions.php on line 284
+
+2019-04-07T11:53:21+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\corpea\wp-content\themes\corpea\functions.php on line 284
+
+2019-04-07T11:53:59+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\corpea\wp-content\themes\corpea\functions.php on line 285
+
+2019-04-07T11:54:00+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\corpea\wp-content\themes\corpea\functions.php on line 285
+
+2019-04-07T11:54:01+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\corpea\wp-content\themes\corpea\functions.php on line 285
+
+2019-04-07T11:54:04+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\corpea\wp-content\themes\corpea\functions.php on line 285
+
+2019-04-07T11:54:04+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\corpea\wp-content\themes\corpea\functions.php on line 285
+
+2019-04-07T11:54:05+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\corpea\wp-content\themes\corpea\functions.php on line 285
+
+2019-04-07T11:54:05+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\corpea\wp-content\themes\corpea\functions.php on line 285
+
+2019-04-07T11:54:08+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\corpea\wp-content\themes\corpea\functions.php on line 285
+
+2019-04-07T12:01:15+00:00 CRITICAL Cannot redeclare woocommerce_support() (previously declared in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\main-function\themesmoon-core.php:507) in C:\xampp\htdocs\corpea\wp-content\themes\corpea\functions.php on line 283
+
+2019-04-07T12:01:15+00:00 CRITICAL Cannot redeclare woocommerce_support() (previously declared in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\main-function\themesmoon-core.php:507) in C:\xampp\htdocs\corpea\wp-content\themes\corpea\functions.php on line 283
+

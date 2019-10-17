@@ -1,0 +1,125 @@
+2019-04-13T04:10:41+00:00 CRITICAL Trait 'Elementor\ElementsCommonFunctions' not found in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-post-grid.php on line 8
+
+2019-04-13T04:10:46+00:00 CRITICAL Trait 'Elementor\ElementsCommonFunctions' not found in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-post-grid.php on line 8
+
+2019-04-13T04:12:19+00:00 CRITICAL Trait 'Elementor\ElementsCommonFunctions' not found in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-post-grid.php on line 8
+
+2019-04-13T04:25:15+00:00 CRITICAL Maximum execution time of 240 seconds exceeded in C:\xampp\htdocs\corpea\wp-admin\includes\class-wp-filesystem-direct.php on line 73
+
+2019-04-13T04:25:41+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\eael_select_contact_form() in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-cform.php:89
+Stack trace:
+#0 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(1919): Elementor\Widget_Eael_Contact_Form->_register_controls()
+#1 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(485): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\widget-base.php(160): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(278): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(713): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\core\files\css\global-css.php(124): Elementor\Controls_Stack->get_scheme_controls()
+#6 C:\xampp\htdocs\ in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-cform.php on line 89
+
+2019-04-13T04:26:28+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\eael_select_contact_form() in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-cform.php:89
+Stack trace:
+#0 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(1919): Elementor\Widget_Eael_Contact_Form->_register_controls()
+#1 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(485): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\widget-base.php(160): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(278): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(713): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\core\files\css\global-css.php(124): Elementor\Controls_Stack->get_scheme_controls()
+#6 C:\xampp\htdocs\ in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-cform.php on line 89
+
+2019-04-13T04:26:40+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\eael_select_contact_form() in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-cform.php:89
+Stack trace:
+#0 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(1919): Elementor\Widget_Eael_Contact_Form->_register_controls()
+#1 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(485): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\widget-base.php(160): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\managers\widgets.php(274): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\C in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-cform.php on line 89
+
+2019-04-13T04:27:22+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\eael_select_contact_form() in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-cform.php:89
+Stack trace:
+#0 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(1919): Elementor\Widget_Eael_Contact_Form->_register_controls()
+#1 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(485): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\widget-base.php(160): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\managers\widgets.php(274): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\C in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-cform.php on line 89
+
+2019-04-13T04:28:17+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\eael_select_contact_form() in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-cform.php:89
+Stack trace:
+#0 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(1919): Elementor\Widget_Eael_Contact_Form->_register_controls()
+#1 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(485): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\widget-base.php(160): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\managers\widgets.php(274): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\C in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-cform.php on line 89
+
+2019-04-13T04:29:57+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\eael_select_contact_form() in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-cform.php:87
+Stack trace:
+#0 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(1919): Elementor\Widget_Eael_Contact_Form->_register_controls()
+#1 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(485): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\widget-base.php(160): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\managers\widgets.php(274): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\C in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-cform.php on line 87
+
+2019-04-13T04:36:01+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\eael_select_contact_form() in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-cform.php:87
+Stack trace:
+#0 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(1919): Elementor\Widget_Eael_Contact_Form->_register_controls()
+#1 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(485): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\widget-base.php(160): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(278): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(713): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\core\files\css\global-css.php(124): Elementor\Controls_Stack->get_scheme_controls()
+#6 C:\xampp\htdocs\ in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-cform.php on line 87
+
+2019-04-13T07:17:48+00:00 CRITICAL syntax error, unexpected '-', expecting '{' in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-team.php on line 6
+
+2019-04-13T07:17:50+00:00 CRITICAL syntax error, unexpected '-', expecting '{' in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-team.php on line 6
+
+2019-04-13T07:17:50+00:00 CRITICAL syntax error, unexpected '-', expecting '{' in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-team.php on line 6
+
+2019-04-13T07:17:50+00:00 CRITICAL syntax error, unexpected '-', expecting '{' in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-team.php on line 6
+
+2019-04-13T07:17:50+00:00 CRITICAL syntax error, unexpected '-', expecting '{' in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-team.php on line 6
+
+2019-04-13T07:18:05+00:00 CRITICAL syntax error, unexpected '-', expecting '{' in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-team.php on line 6
+
+2019-04-13T07:18:10+00:00 CRITICAL syntax error, unexpected '-', expecting '{' in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-team.php on line 6
+
+2019-04-13T07:18:15+00:00 CRITICAL syntax error, unexpected '-', expecting '{' in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-team.php on line 6
+
+2019-04-13T08:28:02+00:00 CRITICAL syntax error, unexpected '-', expecting '{' in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-team.php on line 6
+
+2019-04-13T08:28:06+00:00 CRITICAL syntax error, unexpected '-', expecting '{' in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-team.php on line 6
+
+2019-04-13T08:28:06+00:00 CRITICAL syntax error, unexpected '-', expecting '{' in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-team.php on line 6
+
+2019-04-13T08:28:07+00:00 CRITICAL syntax error, unexpected '-', expecting '{' in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-team.php on line 6
+
+2019-04-13T10:15:22+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\flatpro_all_category_list() in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-post-grid.php:63
+Stack trace:
+#0 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(1919): Elementor\Themeum_Widget_Posts_Grid->_register_controls()
+#1 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(485): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\widget-base.php(160): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\managers\widgets.php(274): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Eleme in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-post-grid.php on line 63
+
+2019-04-13T10:48:24+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\flatpro_all_category_list() in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-post-grid-2.php:63
+Stack trace:
+#0 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(1919): Elementor\Themeum_Widget_Posts_Grid_2->_register_controls()
+#1 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(485): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\widget-base.php(160): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\managers\widgets.php(274): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(E in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-post-grid-2.php on line 63
+
+2019-04-13T10:51:15+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\flatpro_all_category_list() in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-post-grid-2.php:63
+Stack trace:
+#0 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(1919): Elementor\Themeum_Widget_Posts_Grid_2->_register_controls()
+#1 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\controls-stack.php(485): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\base\widget-base.php(160): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\includes\managers\widgets.php(274): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\corpea\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(E in C:\xampp\htdocs\corpea\wp-content\themes\corpea\inc\thmoon-elementor\thmoon-post-grid-2.php on line 63
+

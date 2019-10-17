@@ -1,0 +1,147 @@
+@charset "UTF-8";
+/*
+Theme Name: corpea
+Theme URI: https://github.com/csemotaleb
+Author: Motaleb Hossain
+Author URI: https://wordpress.org/
+Description: Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes.
+Requires at least: WordPress 5.0.3
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: corpea
+Tags: one-column, flexible-header, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, rtl-language-support, sticky-post, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+corpea Nineteen is based on Underscores https://underscores.me/, (C) 2012-2018 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+motaleb https://github.com/csemotaleb
+*/
+
+.elementor-progress-wrapper{
+  height: 20px;
+}
+
+
+/*=================================
+ *=======    Coming Soon    =======
+ *================================= */
+ html {
+  width: 100%;
+  height: 100%;
+ }
+.page-template-coming-soon-php {
+  height: 100%;
+  width: 100%;
+}
+.comingsoon{
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+  color: #fff;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 80px;
+}
+#comingsoon-countdown{
+    text-align: center;
+    background-color: rgba(0,0,0,0.2);
+    padding: 40px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+#comingsoon-countdown .countdown-section{
+    display: inline-block;
+    padding: 20px;
+    font-weight: 100;
+}
+#comingsoon-countdown .countdown-amount{
+    display:block;
+    font-size:66px;
+    line-height:1;
+    color:#fff;
+    letter-spacing:3px;
+    width: 100%;
+    text-align: center;
+}
+#comingsoon-countdown .countdown-period{
+    display:block;
+    width: 100%;
+    text-align:center;
+}
+h2.page-header{
+    font-size: 17px;
+    line-height: 28px;
+    margin-bottom: 20px;
+    font-weight: 500;
+    text-transform: capitalize;
+    color: #fff;
+    text-align: center;
+    border-bottom: none;
+    padding: 0px;
+    margin-top: 0px;
+}
+.countdown-days{
+    color:#fff !important;
+}
+.countdown-hours{
+    color:#fff !important;
+}
+.countdown-minutes{
+    color:##fff !important;
+}
+.countdown-seconds{
+    color:##fff !important;
+}
+
+p.comingsoon-message-desc{
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+}
+.comingsoon > div{
+  display: table;
+  vertical-align: middle;
+  width: 100%;
+  height: 100%;
+}
+
+.comingsoon-content {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+.social-share ul{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.comingsoon .social-share ul li {
+    display: inline-block;
+    margin: 0 15px;
+}
+
+.comingsoon .social-share li a {
+    color: rgba(255,255,255,0.7);
+    font-size: 18px;
+    -webkit-transition: color 400ms;
+    transition: color 400ms;
+}
+.comingsoon .social-share li a:hover {
+    color: #fff;
+}
+.ads-style{
+    margin: 10px 0 30px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: normal;
+    color: #0a0a0a;    
+}
+.cat-add{
+    margin-bottom: 29px;
+}
+.logout-bookmark { right: 35px; }
